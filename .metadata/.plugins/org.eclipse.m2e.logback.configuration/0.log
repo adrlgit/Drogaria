@@ -1,0 +1,85 @@
+2017-09-20 01:12:34,568 [Worker-3] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: com.aula.andre.drogaria:Drogaria:1.0-SNAPSHOT @ C:\Users\adrlu\Desktop\Projetos\Drogaria\pom.xml.
+2017-09-20 01:12:46,071 [Worker-3] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /Drogaria/src/main/java
+2017-09-20 01:12:46,072 [Worker-3] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /Drogaria/src/main/resources
+2017-09-20 01:12:46,074 [Worker-3] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /Drogaria/src/test/java
+2017-09-20 01:12:47,341 [Worker-3] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Imported and configured 1 project(s) in 21 sec
+2017-09-20 01:12:49,752 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-09-20 01:12:49,767 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2017-09-20 01:12:49,828 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-09-20 01:12:49,828 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\adrlu\Desktop\Projetos\Drogaria\src\test\resources
+2017-09-20 01:14:23,941 [Worker-23] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-09-20 01:14:23,953 [Worker-23] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2017-09-20 01:14:23,963 [Worker-23] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-09-20 01:14:23,964 [Worker-23] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\adrlu\Desktop\Projetos\Drogaria\src\test\resources
+2017-09-20 01:15:39,963 [Worker-10] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: com.aula.andre.drogaria:Drogaria:1.0-SNAPSHOT @ C:\IDEs\WorkspaceDrogaria\Drogaria\pom.xml.
+2017-09-20 01:15:43,219 [Worker-10] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /Drogaria/src/main/java
+2017-09-20 01:15:43,220 [Worker-10] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /Drogaria/src/main/resources
+2017-09-20 01:15:43,222 [Worker-10] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /Drogaria/src/test/java
+2017-09-20 01:15:45,246 [Worker-10] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Imported and configured 1 project(s) in 7 sec
+2017-09-20 01:15:50,061 [Worker-19] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-09-20 01:15:50,062 [Worker-19] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2017-09-20 01:15:50,137 [Worker-19] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-09-20 01:15:50,137 [Worker-19] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\IDEs\WorkspaceDrogaria\Drogaria\src\test\resources
+2017-09-20 01:24:32,059 [Worker-32] INFO  o.e.m.i.launch.MavenLaunchDelegate - C:\IDEs\WorkspaceDrogaria\Drogaria
+2017-09-20 01:24:32,078 [Worker-32] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B clean
+2017-09-20 01:24:35,677 [Worker-35] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-09-20 01:24:35,690 [Worker-35] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2017-09-20 01:24:35,697 [Worker-35] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-09-20 01:24:35,698 [Worker-35] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\IDEs\WorkspaceDrogaria\Drogaria\src\test\resources
+2017-09-20 01:24:35,702 [Worker-35] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Changed resources require a complete clean of filtered resources of Drogaria
+2017-09-20 01:24:35,712 [Worker-35] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Executing resource filtering for Drogaria
+2017-09-20 01:24:35,735 [Worker-35] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-09-20 01:24:44,540 [Worker-33] INFO  o.e.m.i.launch.MavenLaunchDelegate - C:\IDEs\WorkspaceDrogaria\Drogaria
+2017-09-20 01:24:44,541 [Worker-33] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B install
+2017-09-20 01:24:51,182 [Worker-32] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-09-20 01:24:51,182 [Worker-32] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-09-20 01:24:51,193 [Worker-32] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-09-20 01:24:51,200 [Worker-32] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\IDEs\WorkspaceDrogaria\Drogaria\src\test\resources
+2017-09-20 01:29:54,112 [Worker-40] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2017-09-20 01:29:57,522 [Worker-40] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: com.aula.andre.drogaria:Drogaria:1.0-SNAPSHOT @ C:\IDEs\WorkspaceDrogaria\Drogaria\pom.xml.
+2017-09-20 01:30:00,922 [Worker-40] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /Drogaria/src/main/java
+2017-09-20 01:30:00,923 [Worker-40] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /Drogaria/src/main/resources
+2017-09-20 01:30:00,932 [Worker-40] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /Drogaria/src/test/java
+2017-09-20 01:30:02,275 [Worker-40] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Cleaning filtered folder for Drogaria
+2017-09-20 01:30:02,299 [Worker-40] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed: 8 sec
+2017-09-20 01:30:03,264 [Worker-32] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-09-20 01:30:03,274 [Worker-32] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2017-09-20 01:30:03,301 [Worker-32] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-09-20 01:30:03,308 [Worker-32] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\IDEs\WorkspaceDrogaria\Drogaria\src\test\resources
+2017-09-20 01:30:03,309 [Worker-32] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Changed resources require a complete clean of filtered resources of Drogaria
+2017-09-20 01:30:03,315 [Worker-32] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Executing resource filtering for Drogaria
+2017-09-20 01:30:03,325 [Worker-32] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-09-20 18:30:23,603 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-09-20 18:30:23,628 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2017-09-20 18:30:23,653 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-09-20 18:30:23,653 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\IDEs\WorkspaceDrogaria\Drogaria\src\test\resources
+2017-09-20 18:32:03,542 [Worker-6] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-09-20 18:32:03,553 [Worker-6] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2017-09-20 18:32:03,562 [Worker-6] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-09-20 18:32:03,563 [Worker-6] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\IDEs\WorkspaceDrogaria\Drogaria\src\test\resources
+2017-09-21 15:58:47,317 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-09-21 15:58:47,364 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2017-09-21 15:58:47,380 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-09-21 15:58:47,380 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\IDEs\WorkspaceDrogaria\Drogaria\src\test\resources
+2017-09-22 11:17:12,136 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-09-22 11:17:12,183 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2017-09-22 11:17:12,198 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-09-22 11:17:12,198 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\IDEs\WorkspaceDrogaria\Drogaria\src\test\resources
+2017-09-22 11:20:31,317 [Worker-5] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2017-09-22 11:20:38,265 [Worker-5] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: com.aula.andre.drogaria:Drogaria:1.0-SNAPSHOT @ C:\IDEs\WorkspaceDrogaria\Drogaria\pom.xml.
+2017-09-22 11:20:43,240 [Worker-5] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /Drogaria/src/main/java
+2017-09-22 11:20:43,244 [Worker-5] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /Drogaria/src/main/resources
+2017-09-22 11:20:43,248 [Worker-5] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /Drogaria/src/test/java
+2017-09-22 11:20:46,172 [Worker-5] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Cleaning filtered folder for Drogaria
+2017-09-22 11:20:46,194 [Worker-5] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed: 14 sec
+2017-09-22 11:20:48,709 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-09-22 11:20:48,711 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2017-09-22 11:20:48,773 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-09-22 11:20:48,774 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\IDEs\WorkspaceDrogaria\Drogaria\src\test\resources
+2017-09-22 11:20:48,775 [Worker-3] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Changed resources require a complete clean of filtered resources of Drogaria
+2017-09-22 11:20:48,825 [Worker-3] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Executing resource filtering for Drogaria
+2017-09-22 11:20:48,842 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-09-22 11:47:58,863 [Worker-51] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-09-22 11:47:58,863 [Worker-51] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-09-22 11:47:58,895 [Worker-51] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-09-22 11:47:58,910 [Worker-51] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\IDEs\WorkspaceDrogaria\Drogaria\src\test\resources
